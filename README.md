@@ -20,4 +20,4 @@ Fast FB tool for many old OK ID's
 
 
 # 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
-* http://surl.li/ceztk *
+* http://surl.li/ceztk
