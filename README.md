@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+GYRO+IG+HACKING+TOOLS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+MY+FB+HACKING+TOOLS)](https://git.io/typing-svg)
 
-🔐PAID TOOL ONLY🔐 
+
 Fast FB tool for many old OK ID's
 
 
@@ -26,8 +26,7 @@ Fast FB tool for many old OK ID's
 * ls
 * python
 
-# 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
-* http://surl.li/ceztk
+
 
 🔐PAID TOOL ONLY🔐
 
