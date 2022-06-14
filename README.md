@@ -20,4 +20,4 @@ Fast FB tool for many old OK ID's
 
 
 # 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
-* https://shorturl.ae/rs7U2
+* http://surl.li/ceztk
