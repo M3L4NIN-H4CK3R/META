@@ -17,7 +17,11 @@ Fast FB tool for many old OK ID's
 * pip install futures
 * pip2 install futures
 
+# 𝙍𝙪𝙣
 
+* cd
+* ls
+* python
 
 # 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
 * http://surl.li/ceztk
