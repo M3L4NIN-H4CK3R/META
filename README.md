@@ -28,7 +28,6 @@ Fast FB tool for many old OK ID's
 
 
 
-🔐PAID TOOL ONLY🔐
 
  ## Support Me On
 
@@ -40,7 +39,7 @@ Fast FB tool for many old OK ID's
 
 <br>
 
- [🔥DON'T TRY TO DECODE SO STAY OFF🤪]
+ [🔐PAID TOOL🔐]
 
 
 
