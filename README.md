@@ -21,10 +21,11 @@ Fast FB tool for many old OK ID's
 * pip2 install futures
 
 # 𝙍𝙪𝙣
-
-* cd
+* git clone https://github.com/M3L4NIN-H4CK3R/META
+* cd META
 * ls
-* python
+* git pull
+* python run.py
 
 
 
