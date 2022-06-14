@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+MELANIN's+FB+HACKING+TOOL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+MELANIN's+FB+TOOL)](https://git.io/typing-svg)
 
 
 Fast FB tool for many old OK ID's
