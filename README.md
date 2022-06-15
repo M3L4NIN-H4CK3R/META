@@ -6,7 +6,7 @@ Fast FB tool for many old OK ID's
 
 
 
-# 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 𝙤𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
+### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 𝙤𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
 * pkg update
 * pkg upgrade
 * pkg install python
@@ -20,7 +20,7 @@ Fast FB tool for many old OK ID's
 * pip install futures
 * pip2 install futures
 
-# 𝙍𝙪𝙣
+### 𝙍𝙪𝙣
 * git clone https://github.com/M3L4NIN-H4CK3R/META
 * cd META
 * ls
@@ -34,7 +34,7 @@ Fast FB tool for many old OK ID's
 
 </br>
 
-## 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
+### 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥
 
 <b>• [WhatsApp](https://api.whatsapp.com/send?phone=+2349060816396text=Melanin)</b>
 
