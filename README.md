@@ -6,7 +6,7 @@ Fast FB tool for many old OK ID's
 
 
 
-### Install script onbTermux
+### Install script on Termux
 * pkg update
 * pkg upgrade
 * pkg install python
