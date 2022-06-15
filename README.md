@@ -5,7 +5,7 @@
 
 
 
-### Install script on Termux
+##### Install script on Termux
 * pkg update
 * pkg upgrade
 * pkg install python
@@ -19,7 +19,7 @@
 * pip install futures
 * pip2 install futures
 
-### Run script
+##### Run script
 * git clone https://github.com/M3L4NIN-H4CK3R/META
 * cd META
 * ls
@@ -33,7 +33,7 @@
 
 </br>
 
-### WhatsApp
+##### WhatsApp
 
 <b>• [WhatsApp](https://api.whatsapp.com/send?phone=+2349060816396text=Melanin)</b>
 
