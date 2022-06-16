@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+MELANIN's+FB+TOOL)](https://git.io/typing-svg)
 
-<img src="https://github.com/M3L4NIN-H4CK3R/META/blob/main/IMG-20220614-WA0140.jpg" width="120" height="120" align="left">
-<center>
 
 
 𝐅𝐚𝐬𝐭 𝐅𝐁 𝐭𝐨𝐨𝐥 𝐟𝐨𝐫 𝐦𝐚𝐧𝐲 𝐨𝐥𝐝 𝐎𝐊 𝐈𝐃'𝐬
@@ -28,6 +26,9 @@
 * ls
 * git pull
 * python meta.py
+
+<img src="https://github.com/M3L4NIN-H4CK3R/META/blob/main/IMG-20220614-WA0140.jpg" width="120" height="120" align="left">
+<center>
 
 
 
