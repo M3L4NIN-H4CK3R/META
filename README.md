@@ -27,9 +27,6 @@
 * git pull
 * python meta.py
 
-<img src="https://github.com/M3L4NIN-H4CK3R/META/blob/main/IMG-20220614-WA0140.jpg" width="120" height="120" align="left">
-<center>
-
 
 
 
@@ -44,6 +41,9 @@
 <br>
 
  [🔐PAID TOOL🔐]
+<img src="https://github.com/M3L4NIN-H4CK3R/META/blob/main/IMG-20220614-WA0140.jpg" width="120" height="120" align="left">
+<center>
+
 
 
 
