@@ -19,7 +19,8 @@
 * pip2 install bs4
 * pip install futures
 * pip2 install futures
-
+* pip install stdiomask
+* pip install rich
 ##### Run script
 * git clone https://github.com/M3L4NIN-H4CK3R/META
 * cd META
