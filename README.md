@@ -26,7 +26,7 @@
 * cd META
 * ls
 * git pull
-* python meta.py
+* python run.py
 
 
 
