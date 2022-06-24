@@ -35,12 +35,12 @@
 <th>DURATION</th>
 </tr>
 <tr>
-<td>7k</td>
-<td>2 WEEKS</td>
+<td>8k</td>
+<td>3 WEEKS</td>
 </tr>
 <tr>
 <td>10K</td>
-<td>PREMIUM</td>
+<td>1 MONTH</td>
 </tr>
 </table>
 
