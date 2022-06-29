@@ -26,7 +26,7 @@
 * cd META
 * ls
 * git pull
-* python run.py
+* python META.py
 
 # APPROVAL INFORMATION
 <table border="1">
